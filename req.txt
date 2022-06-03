@@ -8,6 +8,7 @@ importlib-metadata==4.11.2
 Markdown==3.3.6
 Pillow==9.0.1
 pkg_resources==0.0.0
+psycopg2-binary==2.9.3
 PyJWT==2.3.0
 python-dotenv==0.19.2
 pytz==2021.3
