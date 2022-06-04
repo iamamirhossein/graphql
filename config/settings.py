@@ -134,5 +134,5 @@ AUTH_USER_MODEL = 'users.User'
 
 
 GRAPHENE = {
-    "SCHEMA": "apps.schema.schema"
+    "SCHEMA": "apps.schema.schema.schema"
 }
